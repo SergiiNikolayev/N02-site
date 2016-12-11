@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+.menu{
+    width: 100%;
+    background-color: #ededed;
+}
+.menu-container{
+    width: 1030px;
+    height: 46px;
+    margin: 0 auto;
+
+}
+
+ul{
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    justify-content: space-around;
+    margin: 0;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
