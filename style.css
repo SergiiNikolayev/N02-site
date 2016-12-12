@@ -61,14 +61,12 @@ a:hover{
 .row{
    /* display: inline-block;*/
 }
-.col{
-    display: inline-block;
-    width: 33%;
-    height: 500px;
+.col-sm-4{
+
     background-color: #f8b71a;
 }
 
-.col:nth-child(2){
+.col-sm-4:nth-child(2){
     width: 26%;
     height: 500px;
     background-color: #a8f88c;
