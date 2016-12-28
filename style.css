@@ -91,7 +91,7 @@ a:hover{
     margin: -17px auto auto auto;
 }
 
-.main-news-post{
+.main-news-post, .all-news{
     width: 310px;
 }
 
@@ -113,4 +113,18 @@ a:hover{
 .main-news-text{
     width: 92%;
     font-family: tahoma-bold;
+}
+
+.news-item{
+    font-family: tahoma;
+}
+
+.all-news .main-news-h{
+    width: 145px;
+    margin: -25px 0px 0 25%;
+}
+
+.all-news-text{
+    width: 92%;
+    font-size: 14px;
 }
